@@ -33,4 +33,4 @@ This is a teammate project. Special thanks to my teammate (https://github.com/Mh
 
 ## Author info
 E-mail - marith.zap@gmail.com
-[Back to the top] (#project-name)
+[Back to the top](#project-name)
