@@ -57,4 +57,4 @@ This is a teammate project. Special thanks to my teammate (https://github.com/Mh
 
 - E-mail - marith.zap@gmail.com
 
-[Back to the top] (#project-name)
+[Back to the top](#project-name)
