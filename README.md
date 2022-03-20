@@ -4,7 +4,7 @@ This repository contains three projects in C that are assignments for Operation 
 The projects are:
 - Unix Shell Implementation
 - Multithread server-client Calculator
-- Simple Video CLub Information System
+- Simple Video Club Information System
 
 ## Credits
 
