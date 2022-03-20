@@ -23,7 +23,7 @@ This project implements a unix shell. The use of the system() function is forbid
 - commands for input and output redirection from or to files. Also, overwrite > and appent >> are supported. For example, shell can execute the command
 ```
     $ cat < in.txt > out.txt
-    $ cat <in.txt >> out.txt
+    $ cat < in.txt >> out.txt
 ```
 - commands in pipe such as
 ```
